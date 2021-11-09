@@ -2,7 +2,7 @@
 
 - 🤝ㅤI'm Ahmad **Ichsan** Baihaqi
 - 😄ㅤPronouns is he/him
-- 🔭ㅤI’m currently working on Web and Mobile Apps as Front End Developer using ReactJS and ReactNative
+- 🔭ㅤI’m currently working as a Front End Developer using ReactJS and ReactNative at [eComindo](https://www.ecomindo.com/)
 - 🌱ㅤI’m currently learning R and Python in my after office time
 - 💬ㅤAsk me about ReactJS/ReactNative
 - 📫ㅤReach me on [LinkedIn](https://www.linkedin.com/in/ahmadichsan/), [Telegram](https://t.me/ichsanbaihaqi) and [Instagram](https://www.instagram.com/ahmdichsan/)
