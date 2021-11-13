@@ -6,7 +6,7 @@
 - 🌱ㅤI’m currently learning R and Python in my after office time
 - 💬ㅤAsk me about ReactJS/ReactNative
 - 📫ㅤReach me on [LinkedIn](https://www.linkedin.com/in/ahmadichsan/), [Telegram](https://t.me/ichsanbaihaqi) and [Instagram](https://www.instagram.com/ahmdichsan/)
-- ⚡️ㅤFun fact: I prefered working in the morning or at night. That time is the time when silence sound loudest
+- ⚡️ㅤFun fact: I'm an ex-Chemist
 
 <!--
 **ahmadichsan/ahmadichsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
