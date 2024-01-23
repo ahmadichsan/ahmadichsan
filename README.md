@@ -3,8 +3,6 @@
 - 🤝ㅤI'm Ahmad **Ichsan** Baihaqi
 - 😄ㅤPronouns is he/him
 - 🔭ㅤI’m currently working as a Front End Developer using ReactJS and ReactNative at [eComindo](https://www.ecomindo.com/)
-- 🌱ㅤI’m currently learning R and Python in my after office time
-- 💬ㅤAsk me about ReactJS/ReactNative
 - 📫ㅤReach me on [LinkedIn](https://www.linkedin.com/in/ahmadichsan/), [Telegram](https://t.me/ichsanbaihaqi) and [Instagram](https://www.instagram.com/ahmdichsan/)
 - 📝ㅤFind my personal blog on [wordpress](https://ichsanahmd.wordpress.com/) (in Bahasa) and my articles on [medium](https://ahmdichsanbaihaqi.medium.com)
 - ⚡️ㅤFun fact: I'm an ex-Chemist
