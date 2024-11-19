@@ -2,9 +2,9 @@
 
 - 🤝ㅤI'm Ahmad **Ichsan** Baihaqi
 - 😄ㅤPronouns is he/him
-- 🔭ㅤI’m currently working as a Front End Developer using ReactJS and ReactNative at [eComindo](https://www.ecomindo.com/)
-- 📫ㅤReach me on [LinkedIn](https://www.linkedin.com/in/ahmadichsan/), [Telegram](https://t.me/ichsanbaihaqi) and [Instagram](https://www.instagram.com/ahmdichsan/)
-- 📝ㅤFind my personal blog on [wordpress](https://ichsanahmd.wordpress.com/) (in Bahasa) and my articles on [medium](https://ahmdichsanbaihaqi.medium.com)
+- 🔭ㅤI’m currently working as a Front End Developer at [eComindo](https://www.ecomindo.com/)
+- 📫ㅤReach me through [LinkedIn](https://www.linkedin.com/in/ahmadichsan/) or [Email](mailto:ahmadichsanbaihaqi@gmail.com)
+- 📝ㅤFind my personal blog on [wordpress](https://ichsanahmd.wordpress.com/) and my articles on [medium](https://ahmdichsanbaihaqi.medium.com)
 - ⚡️ㅤFun fact: I'm an ex-Chemist
 
 <!--
